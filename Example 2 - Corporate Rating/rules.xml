@@ -1,6 +1,6 @@
 <project>
     <name>Example 2 - Corporate Rating</name>
-    <comment>qwe</comment>
+    <comment>qwe2</comment>
     <modules>
         <module>
             <name>Corporate Rating</name>
