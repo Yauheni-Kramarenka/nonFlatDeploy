@@ -1,0 +1,10 @@
+<project>
+    <name>Sample Project</name>
+    <comment></comment>
+    <modules>
+        <module>
+            <name>Main</name>
+            <rules-root path="Main.xlsx"/>
+        </module>
+    </modules>
+</project>
