@@ -3,8 +3,8 @@
     <comment>qwe22232323</comment>
     <modules>
         <module>
-            <name>Corporate Rating</name>
-            <rules-root path="Corporate Rating.xlsx"/>
+            <name>Main</name>
+            <rules-root path="Main.xlsx"/>
         </module>
     </modules>
 </project>
