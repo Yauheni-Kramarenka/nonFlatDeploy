@@ -3,10 +3,6 @@
     <comment>qwesdfsfdds</comment>
     <modules>
         <module>
-            <name>Bank Rating</name>
-            <rules-root path="Bank Rating.xlsx"/>
-        </module>
-        <module>
             <name>Main</name>
             <rules-root path="Main.xlsx"/>
         </module>
